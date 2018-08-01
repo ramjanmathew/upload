@@ -48,6 +48,7 @@
     "@angular/cli": "1.0.0",
     "@types/jasmine": "2.2.30",
     "@types/node": "7.0.10",
+    "ack-angular-webcam": "^1.9.3",
     "angular-ide": "^0.9.41",
     "codelyzer": "3.0.0-beta.4",
     "jasmine-core": "2.5.2",
